@@ -5,7 +5,7 @@ step 1: player draws a random card and keeps it secret
 
 step 2: player zkproves whether or not the secret number is greater than or less than the block hash of the previous block
 
-# 🏄‍♂️ Quick Start
+## 🏄‍♂️ Quick Start
 
 Prerequisites: [Node](https://nodejs.org/en/download/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
 

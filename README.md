@@ -1,12 +1,10 @@
+# zk-poker (most simplified version)
+
+## game rules
+step 1: player draws a random card and keeps it secret
+step 2: player zkproves whether or not the secret number is greater than or less than the block hash of the previous block
+
 # 🏗 Scaffold-ETH
-
-> everything you need to build on Ethereum! 🚀
-
-🧪 Quickly experiment with Solidity using a frontend that adapts to your smart contract:
-
-![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
-
-
 # 🏄‍♂️ Quick Start
 
 Prerequisites: [Node](https://nodejs.org/en/download/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
